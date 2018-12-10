@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SCL Pin=Arduino-30
+Added Pin To Net: NetName=SCL Pin=Heart Rate-5
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=Arduino-29
+Added Pin To Net: NetName=SDA Pin=Heart Rate-4
+Added Net: Name=SDA
+Added Room: Name=ProjetM1S1

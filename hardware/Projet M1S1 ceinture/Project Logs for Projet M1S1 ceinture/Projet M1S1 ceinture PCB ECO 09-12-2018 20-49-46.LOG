@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=VR?-1
+Removed Pin From Net: NetName=GND Pin=VR?-2
+Removed Member From Class: ClassName=Projet M1S1 ceinture Member=VR?
+Added Component: Designator=3.3v(TO252)
+Added Pin To Net: NetName=VCC Pin=3.3v-1
+Added Pin To Net: NetName=GND Pin=3.3v-2
+Added Pin To Net: NetName=Net3.3v_3 Pin=3.3v-3
+Added Pin To Net: NetName=Net3.3v_3 Pin=heart-3
+Added Net: Name=Net3.3v_3
+Added Member To Class: ClassName=Projet M1S1 ceinture Member=Component 3.3v 78xx

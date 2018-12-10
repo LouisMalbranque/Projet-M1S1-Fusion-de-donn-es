@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Projet M1S1 board.PrjPcb]
+   Generated File[ProjetM1S1.GTL]
+   Generated File[ProjetM1S1.GBL]
+   Generated File[ProjetM1S1.GTO]
+   Generated File[ProjetM1S1.GTP]
+   Generated File[ProjetM1S1.GTS]
+   Generated File[ProjetM1S1.GBS]
+   Generated File[ProjetM1S1.GBP]
+   Generated File[ProjetM1S1.GBO]
+   Generated File[ProjetM1S1.GKO]
+   Generated File[ProjetM1S1.GM1]
+   Generated File[ProjetM1S1.GD1]
+   Generated File[ProjetM1S1.GG1]
+   Generated File[ProjetM1S1.EXTREP]
+   Generated File[ProjetM1S1.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 09:08:29 On 07/12/2018

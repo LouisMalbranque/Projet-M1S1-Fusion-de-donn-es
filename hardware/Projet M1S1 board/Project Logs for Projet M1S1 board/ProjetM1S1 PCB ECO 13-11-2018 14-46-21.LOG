@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=Batterie
+Change Component Designator: OldDesignator=* NewDesignator=Heart Rate
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetArduino_6
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetArduino_12
+Change Net Name : Old Net Name=Net*_5 New Net Name=NetArduino_11
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Batterie Port Batterie

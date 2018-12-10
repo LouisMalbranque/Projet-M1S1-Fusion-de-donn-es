@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=ProjetM1S1 Member=MAX30101
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=MAX30101 NewDesignator=*
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Added Component: Designator=*(PortBatterie)
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=Arduino-6
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=ProjetM1S1 Member=Component * Port Batterie
+Added Room: Name=ProjetM1S1

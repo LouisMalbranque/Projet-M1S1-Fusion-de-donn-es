@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Heart Rate-2
+Removed Pin From Net: NetName=VCC Pin=Heart Rate-3
+Removed Pin From Net: NetName=SDA Pin=Heart Rate-4
+Removed Pin From Net: NetName=SCL Pin=Heart Rate-5
+Removed Pin From Net: NetName=VCC Pin=Stretch-1
+Removed Pin From Net: NetName=A3 Pin=Stretch-2
+Removed Member From Class: ClassName=ProjetM1S1 Member=Heart Rate
+Removed Member From Class: ClassName=ProjetM1S1 Member=Stretch
+Change Component DesignItemId : Designator=Temp Old DesignItemId=LM35 New DesignItemId=Header 3
+Change Component Footprint: Designator=Temp Old Footprint=Z03A New Footprint=HDR1X3
+Change Component Comment : Designator=Temp Old Comment=LM35 New Comment=Header 3
+Added Component: Designator=MAX(HDR1X5)
+Added Component: Designator=resp(HDR1X2)
+Added Pin To Net: NetName=GND Pin=MAX-2
+Added Pin To Net: NetName=VCC Pin=MAX-3
+Added Pin To Net: NetName=SDA Pin=MAX-4
+Added Pin To Net: NetName=SCL Pin=MAX-5
+Added Pin To Net: NetName=VCC Pin=resp-1
+Added Pin To Net: NetName=A3 Pin=resp-2
+Added Member To Class: ClassName=ProjetM1S1 Member=Component MAX Header 5
+Added Member To Class: ClassName=ProjetM1S1 Member=Component resp Header 2
+Added Room: Name=ProjetM1S1

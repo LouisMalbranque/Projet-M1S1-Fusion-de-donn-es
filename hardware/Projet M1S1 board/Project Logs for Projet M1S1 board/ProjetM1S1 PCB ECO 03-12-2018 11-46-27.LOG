@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=A3 Pin=R1-2
+Removed Member From Class: ClassName=ProjetM1S1 Member=R1
+Change Component Designator: OldDesignator=Capteurs NewDesignator=P?
+Added Room: Name=ProjetM1S1

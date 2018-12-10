@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetArduino_6 Pin=Bouton-1
+Removed Pin From Net: NetName=GND Pin=Bouton-2
+Removed Member From Class: ClassName=ProjetM1S1 Member=Bouton
+Added Component: Designator=LCD Display(DISPLAYTECH_162C)
+Added Component: Designator=LD(LED5)
+Added Component: Designator=Power(POWER2)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Pin To Net: NetName=GND Pin=LCD Display-1
+Added Pin To Net: NetName=VCC Pin=LCD Display-2
+Added Pin To Net: NetName=GND Pin=LCD Display-5
+Added Pin To Net: NetName=GND Pin=LCD Display-7
+Added Pin To Net: NetName=GND Pin=LCD Display-8
+Added Pin To Net: NetName=GND Pin=LCD Display-9
+Added Pin To Net: NetName=GND Pin=LCD Display-10
+Added Pin To Net: NetName=GND Pin=LD-K
+Added Pin To Net: NetName=GND Pin=Power-1
+Added Pin To Net: NetName=NetArduino_6 Pin=Power-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=A2 Pin=Arduino-9
+Added Pin To Net: NetName=A2 Pin=P1-2
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=Arduino-10
+Added Pin To Net: NetName=A3 Pin=R1-2
+Added Pin To Net: NetName=A3 Pin=Stretch-2
+Added Net: Name=A3
+Added Pin To Net: NetName=NetLCD Display_3 Pin=LCD Display-3
+Added Pin To Net: NetName=NetLCD Display_3 Pin=R2-1
+Added Pin To Net: NetName=NetLCD Display_3 Pin=R3-1
+Added Net: Name=NetLCD Display_3
+Added Pin To Net: NetName=PIN3 Pin=Arduino-16
+Added Pin To Net: NetName=PIN3 Pin=LD-A
+Added Net: Name=PIN3
+Added Pin To Net: NetName=PIN4 Pin=Arduino-17
+Added Pin To Net: NetName=PIN4 Pin=LCD Display-11
+Added Net: Name=PIN4
+Added Pin To Net: NetName=PIN5 Pin=Arduino-18
+Added Pin To Net: NetName=PIN5 Pin=LCD Display-12
+Added Net: Name=PIN5
+Added Pin To Net: NetName=PIN6 Pin=Arduino-19
+Added Pin To Net: NetName=PIN6 Pin=LCD Display-13
+Added Net: Name=PIN6
+Added Pin To Net: NetName=PIN7 Pin=Arduino-20
+Added Pin To Net: NetName=PIN7 Pin=LCD Display-14
+Added Net: Name=PIN7
+Added Pin To Net: NetName=PIN14 Pin=Arduino-7
+Added Pin To Net: NetName=PIN14 Pin=LCD Display-6
+Added Net: Name=PIN14
+Added Pin To Net: NetName=PIN15 Pin=Arduino-8
+Added Pin To Net: NetName=PIN15 Pin=LCD Display-4
+Added Net: Name=PIN15
+Added Member To Class: ClassName=ProjetM1S1 Member=Component LCD Display LCD_DISPLAY
+Added Member To Class: ClassName=ProjetM1S1 Member=Component LD 
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Power 
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R2 RES
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R3 RES
+Added Room: Name=ProjetM1S1

@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Projet M1S1 ceinture.PrjPcb]
+   Generated File[Projet M1S1 ceinture.GTL]
+   Generated File[Projet M1S1 ceinture.GBL]
+   Generated File[Projet M1S1 ceinture.GTO]
+   Generated File[Projet M1S1 ceinture.GTP]
+   Generated File[Projet M1S1 ceinture.GTS]
+   Generated File[Projet M1S1 ceinture.GBS]
+   Generated File[Projet M1S1 ceinture.GBP]
+   Generated File[Projet M1S1 ceinture.GBO]
+   Generated File[Projet M1S1 ceinture.GKO]
+   Generated File[Projet M1S1 ceinture.GM1]
+   Generated File[Projet M1S1 ceinture.GD1]
+   Generated File[Projet M1S1 ceinture.GG1]
+   Generated File[Projet M1S1 ceinture.EXTREP]
+   Generated File[Projet M1S1 ceinture.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 09:10:28 On 07/12/2018

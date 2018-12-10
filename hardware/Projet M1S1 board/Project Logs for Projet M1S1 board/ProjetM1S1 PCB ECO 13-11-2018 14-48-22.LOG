@@ -1,0 +1,5 @@
+Added Component: Designator=Bouton(PortBouton)
+Added Pin To Net: NetName=NetArduino_6 Pin=Bouton-1
+Added Pin To Net: NetName=GND Pin=Bouton-2
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Bouton PortBouton
+Added Room: Name=ProjetM1S1

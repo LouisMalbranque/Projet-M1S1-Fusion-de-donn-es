@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PIN3 Pin=LD-A
+Added Component: Designator=R4(0201)
+Added Pin To Net: NetName=PIN3 Pin=R4-2
+Added Pin To Net: NetName=NetLD_A Pin=LD-A
+Added Pin To Net: NetName=NetLD_A Pin=R4-1
+Added Net: Name=NetLD_A
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R4 RES
+Added Room: Name=ProjetM1S1

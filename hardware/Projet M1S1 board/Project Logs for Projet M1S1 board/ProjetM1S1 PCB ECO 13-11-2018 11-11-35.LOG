@@ -1,0 +1,43 @@
+Added Component: Designator=*(MAX30101EFD+)
+Added Component: Designator=Arduino(ARDUINO_UNO)
+Added Component: Designator=C?(0402)
+Added Component: Designator=P?(BOURNS3310Y)
+Added Component: Designator=R?(0201)
+Added Component: Designator=Temp(Z03A)
+Added Component: Designator=(Stretch Sensor)
+Added Pin To Net: NetName=A0 Pin=-2
+Added Pin To Net: NetName=A0 Pin=Arduino-7
+Added Pin To Net: NetName=A0 Pin=R?-2
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=Arduino-8
+Added Pin To Net: NetName=A1 Pin=P?-2
+Added Net: Name=A1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=Arduino-4
+Added Pin To Net: NetName=GND Pin=Arduino-5
+Added Pin To Net: NetName=GND Pin=Arduino-27
+Added Pin To Net: NetName=GND Pin=Arduino-36
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=Temp-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=Arduino-12
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=Arduino-11
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=NetArduino_21 Pin=Arduino-21
+Added Pin To Net: NetName=NetArduino_21 Pin=Temp-2
+Added Net: Name=NetArduino_21
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=VCC Pin=-1
+Added Pin To Net: NetName=VCC Pin=Arduino-3
+Added Pin To Net: NetName=VCC Pin=Arduino-32
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=P?-3
+Added Pin To Net: NetName=VCC Pin=Temp-1
+Added Net: Name=VCC
+Added Class: Name=ProjetM1S1
+Added Room: Name=ProjetM1S1

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=A1 Pin=Arduino-8
+Added Pin To Net: NetName=A1 Pin=Temp-2
+Added Net: Name=A1
+Added Pin To Net: NetName=PIN1 Pin=Arduino-14
+Added Pin To Net: NetName=PIN1 Pin=LCD Display-6
+Added Net: Name=PIN1
+Added Pin To Net: NetName=PIN2 Pin=Arduino-15
+Added Pin To Net: NetName=PIN2 Pin=LCD Display-4
+Added Net: Name=PIN2
+Added Room: Name=ProjetM1S1

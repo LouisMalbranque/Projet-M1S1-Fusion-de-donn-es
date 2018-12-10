@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=Connecteur NewDesignator=P?
+Change Component Designator: OldDesignator=Strech NewDesignator=Stretch Sensor
+Added Component: Designator=R?(AXIAL-0.3)
+Added Pin To Net: NetName=A3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Member To Class: ClassName=Projet M1S1 ceinture Member=Component R? Res1
+Added Room: Name=Projet M1S1 ceinture

@@ -1,0 +1,90 @@
+Added Component: Designator=Arduino(ARDUINO_UNO)
+Added Component: Designator=C1(RAD0.2)
+Added Component: Designator=Heart Rate(MAX30101EFD+)
+Added Component: Designator=LCD Display(DISPLAYTECH_162C)
+Added Component: Designator=LD(LED5)
+Added Component: Designator=P1(BOURNS3310Y)
+Added Component: Designator=Power(POWER2)
+Added Component: Designator=R1(AXIAL0.5)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=Stretch(Stretch Sensor)
+Added Component: Designator=SW?(1K2_V)
+Added Component: Designator=Temp(Z03A)
+Added Pin To Net: NetName=VCC Pin=Arduino-3
+Added Pin To Net: NetName=GND Pin=Arduino-4
+Added Pin To Net: NetName=GND Pin=Arduino-5
+Added Pin To Net: NetName=NetArduino_6 Pin=Arduino-6
+Added Pin To Net: NetName=A1 Pin=Arduino-8
+Added Pin To Net: NetName=A2 Pin=Arduino-9
+Added Pin To Net: NetName=A3 Pin=Arduino-10
+Added Pin To Net: NetName=PIN1 Pin=Arduino-14
+Added Pin To Net: NetName=PIN2 Pin=Arduino-15
+Added Pin To Net: NetName=PIN3 Pin=Arduino-16
+Added Pin To Net: NetName=PIN4 Pin=Arduino-17
+Added Pin To Net: NetName=PIN5 Pin=Arduino-18
+Added Pin To Net: NetName=PIN6 Pin=Arduino-19
+Added Pin To Net: NetName=PIN7 Pin=Arduino-20
+Added Pin To Net: NetName=GND Pin=Arduino-27
+Added Pin To Net: NetName=SDA Pin=Arduino-29
+Added Pin To Net: NetName=SCL Pin=Arduino-30
+Added Pin To Net: NetName=VCC Pin=Arduino-32
+Added Pin To Net: NetName=GND Pin=Arduino-36
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=Heart Rate-2
+Added Pin To Net: NetName=VCC Pin=Heart Rate-3
+Added Pin To Net: NetName=SDA Pin=Heart Rate-4
+Added Pin To Net: NetName=SCL Pin=Heart Rate-5
+Added Pin To Net: NetName=GND Pin=LCD Display-1
+Added Pin To Net: NetName=VCC Pin=LCD Display-2
+Added Pin To Net: NetName=NetLCD Display_3 Pin=LCD Display-3
+Added Pin To Net: NetName=PIN2 Pin=LCD Display-4
+Added Pin To Net: NetName=GND Pin=LCD Display-5
+Added Pin To Net: NetName=PIN1 Pin=LCD Display-6
+Added Pin To Net: NetName=GND Pin=LCD Display-7
+Added Pin To Net: NetName=GND Pin=LCD Display-8
+Added Pin To Net: NetName=GND Pin=LCD Display-9
+Added Pin To Net: NetName=GND Pin=LCD Display-10
+Added Pin To Net: NetName=PIN4 Pin=LCD Display-11
+Added Pin To Net: NetName=PIN5 Pin=LCD Display-12
+Added Pin To Net: NetName=PIN6 Pin=LCD Display-13
+Added Pin To Net: NetName=PIN7 Pin=LCD Display-14
+Added Pin To Net: NetName=NetLD_A Pin=LD-A
+Added Pin To Net: NetName=GND Pin=LD-K
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=A2 Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=GND Pin=Power-1
+Added Pin To Net: NetName=NetPower_2 Pin=Power-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=A3 Pin=R1-2
+Added Pin To Net: NetName=NetLCD Display_3 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetLCD Display_3 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetLD_A Pin=R4-1
+Added Pin To Net: NetName=PIN3 Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=Stretch-1
+Added Pin To Net: NetName=A3 Pin=Stretch-2
+Added Pin To Net: NetName=NetPower_2 Pin=SW?-1
+Added Pin To Net: NetName=NetArduino_6 Pin=SW?-2
+Added Pin To Net: NetName=VCC Pin=Temp-1
+Added Pin To Net: NetName=A1 Pin=Temp-2
+Added Pin To Net: NetName=GND Pin=Temp-3
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Arduino ARDUINO_UNO
+Added Member To Class: ClassName=ProjetM1S1 Member=Component C1 CAP
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Heart Rate MAX30101EFD+
+Added Member To Class: ClassName=ProjetM1S1 Member=Component LCD Display LCD_DISPLAY
+Added Member To Class: ClassName=ProjetM1S1 Member=Component LD 
+Added Member To Class: ClassName=ProjetM1S1 Member=Component P1 POT_SINGLE
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Power 
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R1 RES
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R2 RES
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R3 RES
+Added Member To Class: ClassName=ProjetM1S1 Member=Component R4 RES
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Stretch Stretch Sensor
+Added Member To Class: ClassName=ProjetM1S1 Member=Component SW? SW_SPDT
+Added Member To Class: ClassName=ProjetM1S1 Member=Component Temp LM35
+Added Room: Name=ProjetM1S1

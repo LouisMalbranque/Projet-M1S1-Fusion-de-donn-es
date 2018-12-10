@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=A3 Pin=R?-1
+Removed Pin From Net: NetName=GND Pin=R?-2
+Removed Member From Class: ClassName=Projet M1S1 ceinture Member=R?
+Added Component: Designator=R1(0805)
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=A3 Pin=R1-2
+Added Member To Class: ClassName=Projet M1S1 ceinture Member=Component R1 RES
+Added Room: Name=Projet M1S1 ceinture

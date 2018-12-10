@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C1 Old Footprint=rad0.3-H316101 New Footprint=RAD0.4
+Change Component Designator: OldDesignator=SW NewDesignator=SW?
+Added Room: Name=ProjetM1S1

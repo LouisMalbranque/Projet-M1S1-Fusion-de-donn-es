@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=heart-2
+Removed Pin From Net: NetName=VCC Pin=heart-3
+Removed Pin From Net: NetName=SDA Pin=heart-4
+Removed Pin From Net: NetName=SCL Pin=heart-5
+Removed Pin From Net: NetName=VCC Pin=resp-1
+Removed Pin From Net: NetName=A3 Pin=resp-2
+Removed Pin From Net: NetName=VCC Pin=Temp-1
+Removed Pin From Net: NetName=A1 Pin=Temp-2
+Removed Pin From Net: NetName=GND Pin=Temp-3
+Removed Member From Class: ClassName=ProjetM1S1 Member=C1
+Removed Member From Class: ClassName=ProjetM1S1 Member=heart
+Removed Member From Class: ClassName=ProjetM1S1 Member=resp
+Removed Member From Class: ClassName=ProjetM1S1 Member=Temp
+Change Component Designator: OldDesignator=SW NewDesignator=SW?
+Added Component: Designator=P?(HDR1X6)
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=SCL Pin=P?-2
+Added Pin To Net: NetName=SDA Pin=P?-3
+Added Pin To Net: NetName=A1 Pin=P?-4
+Added Pin To Net: NetName=A3 Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Member To Class: ClassName=ProjetM1S1 Member=Component P? Header 6
+Added Room: Name=ProjetM1S1

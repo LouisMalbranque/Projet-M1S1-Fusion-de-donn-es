@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=heart-3
+Change Component Designator: OldDesignator=resp NewDesignator=Stretch Sensor
+Change Component Designator: OldDesignator=temp NewDesignator=U?
+Added Component: Designator=VR?(D2PAK_L)
+Added Pin To Net: NetName=VCC Pin=VR?-1
+Added Pin To Net: NetName=GND Pin=VR?-2
+Added Pin To Net: NetName=Netheart_3 Pin=heart-3
+Added Pin To Net: NetName=Netheart_3 Pin=VR?-3
+Added Net: Name=Netheart_3
+Added Member To Class: ClassName=Projet M1S1 ceinture Member=Component VR? Volt Reg
+Added Room: Name=Projet M1S1 ceinture
