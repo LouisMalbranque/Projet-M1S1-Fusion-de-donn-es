@@ -3,7 +3,7 @@
 #include "arduinoFFT.h"
  
 #define SAMPLES 128             //Must be a power of 2
-#define SAMPLING_FREQUENCY 10 //Hz, must be less than 10000 due to ADC
+#define SAMPLING_FREQUENCY 5 //Hz, must be less than 10000 due to ADC
  
 arduinoFFT FFT = arduinoFFT();
  
@@ -40,7 +40,8 @@ void loop() {
     double peak = FFT.MajorPeak(vReal, SAMPLES, SAMPLING_FREQUENCY);
  
     /*PRINT RESULTS*/
-    Serial.println(peak);     //Print out what frequency is the most dominant.
+    Serial.print(peak*60);     //Print out what frequency is the most dominant.
+    Serial.println(" bpm");
  
     for(int i=0; i<(SAMPLES/2); i++)
     {
