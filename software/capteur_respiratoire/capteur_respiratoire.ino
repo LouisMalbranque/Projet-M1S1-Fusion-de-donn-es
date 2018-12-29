@@ -2,7 +2,7 @@
 
 #include "arduinoFFT.h"
  
-#define SAMPLES 128             //Must be a power of 2
+#define SAMPLES 64             //Must be a power of 2
 #define SAMPLING_FREQUENCY 5 //Hz, must be less than 10000 due to ADC
  
 arduinoFFT FFT = arduinoFFT();
@@ -26,7 +26,7 @@ void loop() {
     {
         microseconds = micros();    //Overflows after around 70 minutes!
      
-        vReal[i] = analogRead(0);
+        vReal[i] = analogRead(A3);
         vImag[i] = 0;
      
         while(micros() < (microseconds + sampling_period_us)){

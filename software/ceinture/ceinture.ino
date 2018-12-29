@@ -17,7 +17,6 @@ void loop() {
     double temp = ceinture.getTemperature();
     double heartRate = ceinture.getHeartRate();
     ceinture.getRespiratoryRate();
-    Serial.print(lastMs);
     ceinture.display();
     lastMs = millis();
   }
